@@ -10,3 +10,5 @@
 # Vscode
 .vscode
 .now
+
+out/
