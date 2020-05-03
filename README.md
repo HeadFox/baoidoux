@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/75a7d085-56f4-4ef5-a4e5-5b96859365b1/deploy-status)](https://app.netlify.com/sites/stupefied-cori-77fca6/deploys)
+
 # React app starter
 
 # Informations
